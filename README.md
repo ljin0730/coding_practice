@@ -1,1 +1,1 @@
-This repository is for practicing familiarization with GitHub and general coding using Pb208 neutron and proton densities obtained using EDF theory.
+This "thing" is for first time practice with coding using data values of Pb208 neutron and proton densities obtaned using EDF theory, DD-ME1.
